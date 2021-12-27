@@ -7,5 +7,3 @@ app.listen(port, () => {
     console.log(`CTRL + Clique em http://localhost:${port}`);
     // console.log(app);
 });
-
-// PAROU EM: Aula 8 - Criando usuarios - 12:00 (instalação do bcrypt.js)
